@@ -54,7 +54,7 @@
      kubectl apply -f traefik/ingressroute/ingressroute-secure-prod.yaml
      ```
 
-##
+## Screenshots
 
 1. HTTP without redirect to HTTPS
    ![HTTP](docs/http.png)
